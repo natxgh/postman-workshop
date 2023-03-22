@@ -1,5 +1,5 @@
 {
-	test "info": {
+	"info": {
 		"_postman_id": "05451165-4351-475d-b6f6-ea48709321b2",
 		"name": "marvel",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
